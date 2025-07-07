@@ -2,4 +2,4 @@
 
 Here is the repository for all labs for STAT 250 at CSUMB - Fall 2025.
 
-To import labs into your RStudio Workbench (https://csumb.jupyter.cal-icor.org/) account use the link proivded in your Canvas course.
+To import labs into your RStudio Workbench (https://csumb.jupyter.cal-icor.org/) account use the link provided in your Canvas course.

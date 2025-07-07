@@ -23,11 +23,7 @@ library(mosaic) #package for each data analysis
 library(tidyverse)
 ```
 
-
-
-
-
-## Scenario 1: 
+## Scenario 1:
 
 ```{r}
 #| label: load-data-scenario-1
@@ -36,19 +32,13 @@ data <- read_csv()
 
 ```
 
-
-
 ```{r}
 #| label: add-label-here
 
 #space for code or code outlines
 ```
 
-
-
-
-
-## Scenario 2: 
+## Scenario 2:
 
 ```{r}
 #| label: load-data-scenario-2 
