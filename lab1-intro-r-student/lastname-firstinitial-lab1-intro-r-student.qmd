@@ -180,7 +180,7 @@ length(curry$Game
 ```{r}
 #| label: error-3
 
-sum(~ Point, data = curry na.rm=TRUE)
+mean(~ Point, data = curry na.rm = TRUE)
 ```
 
 > Describe the issue you corrected here.
