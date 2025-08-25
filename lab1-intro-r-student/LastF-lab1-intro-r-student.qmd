@@ -218,14 +218,14 @@ ___add goal here___(fire)
 
 ### 3.3. 
 
-What is the mean number of acres burned in a management unit in 2019 due to lightning strikes? Insert a code chunk and write the appropriate code to answer the question. Recall, you can enter a code chunk by using the following shortcuts: for Windows OS press Ctrl+Alt+I; for Mac OS Cmd+Opt+I.  
+What is the mean number of acres burned in a management unit in 2022 due to lightning strikes? Insert a code chunk and write the appropriate code to answer the question. Recall, you can enter a code chunk by using the following shortcuts: for Windows OS press <Ctrl+Alt+I>; for Mac OS <Cmd+Opt+I>.  
 
 < Insert code chunk here >  
 
 
 ### 3.4. 
 
-Which cause, escaped campfires or smoking, had the most acres burned in one management unit in 2019? Use the function `max()` (uses the formula template) to answer this question. (Hint: you should be using more than one line of code here.)    
+Which cause, escaped campfires or smoking, had the most acres burned in one management unit in 2022? Use the function `max()` (uses the formula template) to answer this question. (Hint: you should be using more than one line of code here.)    
 
 < Insert code chunk here >
 
@@ -234,7 +234,7 @@ Which cause, escaped campfires or smoking, had the most acres burned in one mana
 
 ### 3.5. 
 
-How many acres burned in all management units were caused by arson fires in 2019? 
+How many acres burned in all management units were caused by arson fires in 2022? 
 
 < Insert code chunk here >
 
