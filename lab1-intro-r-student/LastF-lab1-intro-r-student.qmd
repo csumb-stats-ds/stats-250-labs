@@ -244,7 +244,7 @@ How many acres burned in all management units were caused by arson fires in 2022
 
 ### 3.6. 
 
-Researchers are interested in the total number of acres burned in each management unit across all the causes. Add across vectors within each element and store the new vector as the object `total`. Print `total` to screen to see the total manatee mortality for each month. (Reminder: If you don't recall how to do something, you should refer to the primer from Lab #1.)  
+Researchers are interested in the total number of acres burned in each management unit across all the causes. Add across vectors within each element and store the new vector as the object `total`. Print `total` to screen to see the total acres burned in each unit. (Reminder: If you don't recall how to do something, you should refer to the primer from Lab #1.)  
 
 < Insert code chunk here >
 
