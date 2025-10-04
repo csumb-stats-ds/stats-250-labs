@@ -11,6 +11,13 @@ execute:
 ---
 
 
+## Before you start:
+
+1. Complete the Lab Primer linked in Canvas.  
+2. Be sure you have opened the `lab5-eda-qq-student.Rproj` file.  
+3. Change the name of the **QMD** file only to your last name, first initial, e.g., `OtterM-lab5-eda-qq-student.qmd`. You will have to close the QMD document to rename the file. 
+4. Change the "NAME" above after `author:` to your name, leaving it in quotes: "Monte Otter"
+
 ## Skills
 
 * Identify the explanatory and response variables in an experiment or observational study  
@@ -41,6 +48,7 @@ Before you start the lab, add the code that will load any other packages you mig
 
 ```{r}
 #| label: setup
+#| include: false
 #package for data management
 #package for graphics
 #package for stats
