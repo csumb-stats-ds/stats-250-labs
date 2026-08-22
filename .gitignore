@@ -2,4 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-*-key
+*-key.qmd
+*-key.xlsx
+~/keys-other-do-not-push
