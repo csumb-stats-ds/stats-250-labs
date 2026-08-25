@@ -2,8 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-*-key.qmd
-*-key.xlsx
-~/keys-other-do-not-push
+stats-250-labs-fa26.Rproj
 .gitignore
-stat-250-labs-fa26.Rproj
+~/keys-other-do-not-push
+*-key.qmd
