@@ -5,3 +5,5 @@
 *-key.qmd
 *-key.xlsx
 ~/keys-other-do-not-push
+.gitignore
+stat-250-labs-fa26.Rproj
