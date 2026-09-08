@@ -363,7 +363,7 @@ Describe the shape of your distribution. Based on the shape of the distribution,
 
 ### 3.7 (LT 3)  
 
-What percentage of countries have a medal ratio of at least 0.927 medals per games?   
+What percentage of Sams's walks did he pick up at least 18 pieces of trash? 
 
 > Insert answer here.  
 
